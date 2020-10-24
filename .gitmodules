@@ -1,0 +1,3 @@
+[submodule "data-school"]
+	path = data-school
+	url = git@github.com:justmarkham/scikit-learn-videos.git
